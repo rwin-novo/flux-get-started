@@ -19,6 +19,6 @@ entries:
     sources:
     - https://github.com/fluxcd/flux
     urls:
-    - flux-1.4.1.tgz
+    - https://rwin-novo.github.io/chartrepo/flux/flux-1.4.1.tgz
     version: 1.4.1
 generated: "2020-08-17T12:49:30.862919+02:00"
